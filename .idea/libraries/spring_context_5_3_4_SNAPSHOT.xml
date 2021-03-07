@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="spring-context-5.3.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../源码/spring-framework-5.3.4-SNAPSHOT/libs/spring-context-5.3.4-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../源码/spring-framework-5.3.4-SNAPSHOT/libs/spring-beans-5.3.4-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../源码/spring-framework-5.3.4-SNAPSHOT/libs/spring-core-5.3.4-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../源码/spring-framework-5.3.4-SNAPSHOT/libs/spring-expression-5.3.4-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../源码/spring-framework-5.3.4-SNAPSHOT/libs/spring-jcl-5.3.4-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
